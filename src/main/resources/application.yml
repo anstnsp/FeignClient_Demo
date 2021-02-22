@@ -1,0 +1,5 @@
+
+
+feign:
+  post-api:
+    url: http://localhost:8080
